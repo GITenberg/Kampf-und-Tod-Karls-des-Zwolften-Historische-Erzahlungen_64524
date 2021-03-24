@@ -1,0 +1,38 @@
+_repo: Kampf-und-Tod-Karls-des-Zwolften-Historische-Erzahlungen_64524
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bergman, Gustaf
+    birthdate: 1880
+    gutenberg_agent_id: '52941'
+    url: http://www.gutenberg.org/2009/agents/52941
+creator:
+  author:
+    agent_name: Heidenstam, Verner von
+    aliases:
+    - Von Heidenstam, Verner
+    - Heidenstam, Karl Gustaf Verner von
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia: https://en.wikipedia.org/wiki/Verner_von_Heidenstam
+description: 'German translations of selected stories from: Karolinerna.'
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64524'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories, Swedish -- Translations into German'
+- !lcsh 'Sweden -- History -- Charles XII, 1697-1718 -- Fiction'
+- !lcsh 'Swedish fiction -- Translations into German'
+- !lcsh 'Charles XII, King of Sweden, 1682-1718 -- Fiction'
+- GITenberg
+tableOfContents: Das befestigte Haus -- Der Königsritt -- Fredrikshall.
+title: 'Kampf und Tod Karls des Zwölften: Historische Erzählungen'
+url: http://www.gutenberg.org/ebooks/64524
